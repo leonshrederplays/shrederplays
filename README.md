@@ -5,7 +5,7 @@ Bot für Discord der verschiedene Funktionen erfüllt.
 * Website: [Pika-Army-Jimdo](https://pika-army.jimdofree.com)
 * Discord-Hauptserver: [PikaArmy](https://discord.gg/XR7Vw9J)
 * Discord-Labor: [Shrederplays-Labor](https://discord.gg/qDXgc48)
-https://tipp.ga/2018/04/29/windows-installieren-via-pxe/
+
 ## Index
 1. [Dependencies / Node modules](https://github.com/leonshrederplays/shrederplays/blob/master/README.md#dependencies--node-modules)
 2. [How to install Node Modules](https://github.com/leonshrederplays/shrederplays/blob/master/README.md#how-to-install-node-modules)
